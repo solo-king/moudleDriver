@@ -1,0 +1,6 @@
+0x00000000	led_classdev_unregister	vmlinux	EXPORT_SYMBOL_GPL
+0x00000000	devm_led_classdev_unregister	vmlinux	EXPORT_SYMBOL_GPL
+0x00000000	led_classdev_resume	vmlinux	EXPORT_SYMBOL_GPL
+0x00000000	devm_led_classdev_register	vmlinux	EXPORT_SYMBOL_GPL
+0x00000000	led_classdev_suspend	vmlinux	EXPORT_SYMBOL_GPL
+0x00000000	led_classdev_register	vmlinux	EXPORT_SYMBOL_GPL

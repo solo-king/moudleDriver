@@ -1,0 +1,2 @@
+/home/chenqigan/work/moudleDriver/linux4.4/epc400-43/gpio/usr_gpio_manager_driver.ko
+/home/chenqigan/work/moudleDriver/linux4.4/epc400-43/gpio/usr_gpio_manager_driver.o

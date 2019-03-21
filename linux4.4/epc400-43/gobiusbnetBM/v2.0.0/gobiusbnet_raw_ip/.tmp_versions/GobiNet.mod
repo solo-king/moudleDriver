@@ -1,0 +1,2 @@
+/home/chenqigan/work/moudleDriver/linux4.4/epc400-43/gobiusbnetBM/v2.0.0/gobiusbnet_raw_ip/GobiNet.ko
+/home/chenqigan/work/moudleDriver/linux4.4/epc400-43/gobiusbnetBM/v2.0.0/gobiusbnet_raw_ip/qmap.o /home/chenqigan/work/moudleDriver/linux4.4/epc400-43/gobiusbnetBM/v2.0.0/gobiusbnet_raw_ip/GobiUSBNet.o /home/chenqigan/work/moudleDriver/linux4.4/epc400-43/gobiusbnetBM/v2.0.0/gobiusbnet_raw_ip/QMIDevice.o /home/chenqigan/work/moudleDriver/linux4.4/epc400-43/gobiusbnetBM/v2.0.0/gobiusbnet_raw_ip/QMI.o
